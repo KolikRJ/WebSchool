@@ -10,3 +10,7 @@
 Далее перейти в папку с проектом\Tomcat\bin и запусть файл "startup.bat".
 
 Подождать когда запустится сервер и перейти по адресу "http:\\localhost:8080\WebSchoolSpring\"
+
+логин/пароль: admin/admin
+
+Проект лежит в папке WebSchoolSpring.
